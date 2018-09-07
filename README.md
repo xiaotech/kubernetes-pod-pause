@@ -1,2 +1,2 @@
 # kubernetes-pod-pause
-build pause container
+from registry.access.redhat.com/rhel7/pod-infrastructure:latest
